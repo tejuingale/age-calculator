@@ -6,7 +6,7 @@
     font-family: 'Itim', cursive;
 }
     .container{
-        width: 1000px;
+        width: 800px;
         font-family: 'Itim', cursive;
         background-color: #0E2F2F;
         margin-left: 50px;
@@ -18,7 +18,8 @@
     #head{
         text-shadow: 2px 2px 1px rgb(91, 92, 95);
         color: rgb(206, 175, 39);
-        text-align: center;
+        /* text-align: center; */
+       padding-left: 350px;
     }
     #label{
         margin-left: 350px;
